@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.benoitdavid1988-cell/sfts-mcp-server",
-  "description": "Serveur MCP reel de Studio From The Sea : offres tarifaires fixes et couverture geographique reelle pour la visibilite IA des artisans du batiment et TPE en Bretagne.",
+  "description": "Serveur MCP de Studio From The Sea : offres et couverture pour artisans du batiment en Bretagne.",
   "repository": {
     "url": "https://github.com/benoitdavid1988-cell/sfts-mcp-server",
     "source": "github"
